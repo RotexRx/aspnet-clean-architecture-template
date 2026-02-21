@@ -17,3 +17,7 @@ A minimal and clean ASP.NET Core WebAPI template using Clean Architecture.
 - Application
 - Infrastructure
 - WebAPI
+
+- ## Getting Started
+```bash
+git clone https://github.com/RotexRx/aspnet-clean-architecture-template.git
